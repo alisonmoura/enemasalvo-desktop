@@ -12,7 +12,7 @@ Projeto final de Análise e Projeto de Software Orientado a Objetos da Faculdade
 + JavaFX
 + MySQL v14.*
 + Maven
-+ Hybernate
++ Hibernate
 
 ## Configuração
 
